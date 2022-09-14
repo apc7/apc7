@@ -1,5 +1,5 @@
 # 💫 About Me:
-Your Virtual Programming Teacher 
+Virtual Programming Platform 
 
 
 ## 🌐 Socials:
