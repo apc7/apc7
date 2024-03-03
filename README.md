@@ -10,17 +10,9 @@
 - 🌱 I’m currently working as a **Data Analyst** Virtual internship.
 - 🌱 I’m currently working with **WebApplication** projects and practicing  **Leetcode Problem-Solving**.
 
-
+<br><br><br>
 
  
- <h2 align="left" id="prosenjit07-social">Connect With Me</h2>
-
-> You can connect with me in following ways.
-
-
-
-
-
 <h2 align="left" id="prosenjit07-tech">Favorite Tech</h2>
 
 > Tools, languages and other things that I like to work with.
