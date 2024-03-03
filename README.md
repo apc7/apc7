@@ -10,8 +10,7 @@
 - 🌱 I’m currently working as a **Data Analyst** Virtual internship.
 - 🌱 I’m currently working with **WebApplication** projects and practicing  **Leetcode Problem-Solving**.
 
-<a href="https://www.github.com/prosenjit07" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+
 
  
  <h2 align="left" id="prosenjit07-social">Connect With Me</h2>
