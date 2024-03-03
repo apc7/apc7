@@ -1,23 +1,207 @@
-# 💫 About Me:
-Virtual Programming Platform 
+<!-- [![MasterHead](https://www.mcfaddengavender.com/wp-content/uploads/2015/10/iStock-1140338911.jpg)](https://prosenjit07.github.io/) -->
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi!,+I+am+Shuvo+kormokar;I+am+a+dedicated+Programmer,+Developer,+and+AI+enthusiast+;)
+<p align="right"><img align="right" alt="Coding" width="350" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
+<!-- <p align="right"><img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/></p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prosenjit07&label=Profile%20views&color=0e75b6&style=flat" alt="prosenjit07" /> </p>
+
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence from Microsoft Azure**
+- 🌱 I’m currently working as a **Data Analyst** Virtual internship.
+- 🌱 I’m currently working with **WebApplication** projects and practicing  **Leetcode Problem-Solving**.
+
+<a href="https://www.github.com/prosenjit07" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+
+ 
+ <h2 align="left" id="prosenjit07-social">Connect With Me</h2>
+
+> You can connect with me in following ways.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ProgrammingCamp.360) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UC7aJk-BYnDQq5pGd5IblLYQ) 
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/Advance_programming_Camp)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=apc7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=apc7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=apc7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<h2 align="left" id="prosenjit07-tech">Favorite Tech</h2>
+
+> Tools, languages and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="" />
+      </a>
+      <br>Arduino
+    </td>
+   
+   <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" />
+      </a>
+      <br>Java<br>Script
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" />
+      </a>
+      <br>React<br>JS
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" />
+      </a>
+      <br>Android<br>Studio
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" />
+      </a>
+      <br>VS<br>Code
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Py<br>Charm
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Adobe<br>Photoshop
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="" />
+      </a>
+      <br>Adobe<br>Premiere Pro
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Adobe<br>XD
+    </td>
+     <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=net" width="48" height="48" alt="" />
+      </a>
+      <br>.Net
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="" />
+      </a>
+      <br>Bootstrap
+    </td>
+      <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="" />
+      </a>
+      <br>Php
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="" />
+      </a>
+      <br>Jquery
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="" />
+      </a>
+      <br>GoogleCloud
+    </td>
+ </tr>
+ 
+</table>
+
+### Activities & Stats
+
+
+<a href="http://www.github.com/prosenjit07"><img src="https://github-readme-stats.vercel.app/api?username=prosenjit07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="prosenjit07's GitHub stats" /></a>
+
+<a href="http://www.github.com/prosenjit07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prosenjit07&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/prosenjit07"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prosenjit07&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<!-- <a href="https://github.com/prosenjit07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosenjit07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=apc7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=prosenjit07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=apc7&icon=0&color=0)](https://visitcount.itsvg.in)
+
