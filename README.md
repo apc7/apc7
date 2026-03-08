@@ -4,12 +4,28 @@
 <p align="right"><img align="right" alt="Coding" width="350" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
 <!-- <p align="right"><img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/></p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prosenjit07&label=Profile%20views&color=0e75b6&style=flat" alt="prosenjit07" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prosenjit07&label=Profile%20views&color=0e75b6&style=flat" alt="prosenjit07" />
+</p>
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence from Microsoft Azure**
-- 🌱 I’m currently working with **Full stack Web Application** projects and practicing  **Leetcode Problem-Solving**.
+# 🚀 APC Learning Platform
 
-<br><br><br>
+Welcome to this **Programming Learning Platform** designed to help learners go from **Beginner → Advanced Level** in software development.
+
+Our goal is to make programming **simple, practical, and project-based** so anyone can start their journey in tech.
+
+
+## 💡 Platform Features
+
+- Step-by-step programming tutorials  
+- Real-world projects  
+- Coding practice problems  
+- Interview preparation resources  
+- Modern tech stack learning
+
+---
+
+⭐ Follow this repository to **learn programming from beginner to advanced level** and improve your **software development skills**.
 
  
 <h2 align="left" id="prosenjit07-tech">Favorite Tech</h2>
